@@ -1,0 +1,27 @@
+.fomat_do_titulo {
+    Font-family: Lucida Sans, Helvetica, Arial, sans-serif;
+    font-size: 100px;
+    text-align: center;
+/*    border-bottom: 155px; */   
+}
+
+
+.format_do_texto {
+    Font-family: Lucida Sans, Helvetica, Arial, sans-serif;
+    text-align: center;
+}
+
+.menu {
+    position: relative;
+    
+}
+
+.back {
+    background-color:#E0FFFF;;
+}
+/*.imagem-de-fundo {
+    background-image: url(img/nicenice.jpg); 
+
+}*/
+
+
