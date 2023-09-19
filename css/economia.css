@@ -29,7 +29,7 @@
 }
 
 .back {
-    background-color:#E0FFFF;;
+    background-color:#B0E0E6;
 }
 
 .container {
@@ -44,4 +44,14 @@ img {
 p {
     font-family: Lucida Sans, Helvetica, Arial, sans-serif;
     font-size: 20px;
+}
+
+.tabela-gastos {
+    font-family: Lucida Sans, Helvetica, Arial, sans-serif;
+    border: 1px solid #8B4513;
+}
+
+.itens-tabela {
+    font-family: Lucida Sans, Helvetica, Arial, sans-serif;
+    text-align: center;
 }
